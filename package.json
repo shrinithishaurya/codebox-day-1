@@ -1,0 +1,20 @@
+{
+  "name": "codebox-day-1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/shrinithishaurya/codebox-day-1#readme",
+  "bugs": {
+    "url": "https://github.com/shrinithishaurya/codebox-day-1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrinithishaurya/codebox-day-1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "codebox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

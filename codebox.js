@@ -1,0 +1,1 @@
+console.log("Bootcamp Day 1! ")
