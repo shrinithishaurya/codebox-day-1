@@ -13,8 +13,15 @@
   "license": "ISC",
   "author": "",
   "type": "commonjs",
-  "main": "codebox.js",
+  "main": "server.js",
   "scripts": {
+    "dev": "node server.js",
+    "token": "node scripts/generateToken.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.3",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.3"
   }
 }
